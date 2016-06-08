@@ -1,6 +1,12 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+# =============== #
+# Unity generated #
+# =============== #
+Library/
+Publish/
+Temp/
 
 # Folder config file
 Desktop.ini
